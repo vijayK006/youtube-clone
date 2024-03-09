@@ -10,8 +10,8 @@ const Home = () => {
     {/* <Sidenav/> */}
 
      <Container>
-     <h1>Youtube Clone running on git hu</h1> 
      </Container>
+     
      
     </>
   )
